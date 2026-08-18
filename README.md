@@ -70,8 +70,8 @@ Display original color image, histogram, enhanced image, and enhanced histogram 
 
 
 ## Developed By:
-**Name:** PRAVEEN RAJ R
-**Register No:** 212224230207
+**Name:** SHAGILAN U
+**Register No:** 212224040303
 
 ## Program:
 ```python
